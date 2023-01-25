@@ -7,7 +7,7 @@
 
 body {
      font-family: Arial, Helvetica, sans-serif;
-    background-color: hotpink;
+    background-color:#A7D5D3;
     font-weight: 300;
     color: black ;
 }
@@ -16,7 +16,7 @@ h1, h2 {
     font-family: Arial, Helvetica, sans-serif;
     text-transform: capitalize;
     letter-spacing: 1px;
-    color: purple
+    color: black;
 }
 
 #logo  { 
@@ -59,8 +59,14 @@ h1, h2 {
 
 }
 #hero-img {
-   height:600px;
+   height:500px;
    width:100%;
   background: url(../images/hero\ image.jpeg) no-repeat center center;
    
+}
+
+#hero-outer { 
+    height:500px;
+    width:100%;
+    overflow: hidden;
 }
