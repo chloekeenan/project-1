@@ -1,16 +1,4 @@
-* { 
-    margin: 0; 
-    padding: 0;
-
-}
-
-.header { 
-    min-height: 100vh;
-    width: 100%;
-    background-image: url(assets/images/hero-image.jpg);
-    
-}
-
 body {
-    background-color: red;
+     
+    background-color: hotpink;
 }
