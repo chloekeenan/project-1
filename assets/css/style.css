@@ -55,11 +55,10 @@ h1, h2 {
 
 }
 
-.active { 
-    border-bottom: 2px solid black;
 
 
-}
+
+
 #hero-img {
    height:800px;
    width:100%;
@@ -111,8 +110,8 @@ color: black;
  }   
 
  @media(max-width: 700px) {
-    .text-box h1 
-    font-size: 20px;
+    .text-box h1
+     font-size: 20px;
 
  }
 
@@ -135,3 +134,71 @@ color: black;
     color: black;
 
 }
+
+.social-media p {
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+
+#photos { 
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+    width: 5%;
+    height: 10%;
+    object-fit: contain;
+}
+
+.container {
+    padding: 16px;
+  }
+  
+  /* Full-width input fields */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  /* Overwrite default styles of hr */
+  hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+  }
+  
+  /* Set a style for the submit/register button */
+  .registerbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  .registerbtn:hover {
+    opacity:1;
+  }
+  
+  /* Add a blue text color to links */
+  a {
+    color: dodgerblue;
+  }
+  
+  /* Set a grey background color and center the text of the "sign in" section */
+  .signin {
+    background-color: #f1f1f1;
+    text-align: center;
+  }
