@@ -17,11 +17,13 @@ h1, h2 {
     text-transform: capitalize;
     letter-spacing: 1px;
     color: black;
+    text-align: center;
 }
 
 #logo  { 
     float:left;
     font-size: 300%;
+    margin-left: 100px;
 }
 
 #menu { 
@@ -59,34 +61,60 @@ h1, h2 {
 
 }
 #hero-img {
-   height:500px;
+   height:800px;
    width:100%;
-  background: url(../images/hero\ image.jpeg) no-repeat center center;
-   
+   background: url(../images/hero\ image.jpeg)  no-repeat center center;
+   top: 0;
+   left: 0;
+   bottom:0;
+   right: 0;
+   opacity: 0.35;
+
 }
 
 #hero-outer { 
-    height:500px;
+    height:700px;
     width:100%;
     overflow: hidden;
 }
 
-#cover-text, #cover-text h2 {
-color: white
+.text-box {
+    width:80%;
+    color: #57929A;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align:center;
 }
 
-#cover-text {
-    font-size: 120%;
-    font-family: Arial, Helvetica, sans-serif;
-    text-transform: capitalize;
-    letter-spacing: 2px;
-    width: 500px;
-    height:200px;
-    padding-top: 50px;
-    padding-left: 20px;
-    background-color: #EFDFC7;
-    bottom: 30px;
-    right:140px;
-    position: absolute;
-    text-align: center;
+.text-box h1 {
+    font-size: 60px;
 }
+
+.text-box p {
+margin: 10px 0 50px;
+font-size: 20px;
+color: black;
+}
+   
+ .hero-button {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 13px 35px; 
+    font-size: 16px;
+    background: black;
+    position: relative;
+    cursor: pointer;
+ }   
+
+ @media(max-width: 700px) {
+    .text-box h1 
+    font-size: 20px;
+
+ }
+
+
+
