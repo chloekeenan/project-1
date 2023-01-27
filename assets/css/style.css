@@ -19,13 +19,18 @@ h1, h2 {
     letter-spacing: 1px;
     color: black;
     text-align: center;
+    text-decoration:none ;
 }
 
 #logo  { 
-    float:left;
+    text-align: center;
     font-size: 300%;
     margin-left: 100px;
+    text-decoration: none;
+    color: black;
 }
+
+#logo a { text-decoration: none; border-bottom:1px solid black; }
 
 #menu { 
     font-size: 100%;
@@ -98,25 +103,17 @@ font-size: 20px;
 color: black;
 }
    
- .hero-button {
-    display: inline-block;
-    text-decoration: none;
-    color: white;
-    border: 1px solid white;
-    padding: 13px 35px; 
-    font-size: 16px;
-    background: black;
-    position: relative;
-    cursor: pointer;
- }   
+
 
  @media(max-width: 700px) {
-    .text-box h1
-     font-size: 20px;
+    .text-box h1 
+     font-size:20px;
+     
 
  }
 
  footer. {
+
     height: 200px;
  }
 
@@ -156,7 +153,7 @@ color: black;
     padding: 16px;
   }
   
-  /* Full-width input fields */
+
   input[type=text], input[type=fname] {
     width: 100%;
     padding: 15px;
