@@ -20,6 +20,7 @@ h1, h2 {
     color: black;
     text-align: center;
     text-decoration:none ;
+    margin: auto;
 }
 
 #logo  { 
@@ -77,6 +78,8 @@ h1, h2 {
 
 }
 
+
+
 #hero-outer { 
     height:700px;
     width:100%;
@@ -103,7 +106,24 @@ font-size: 20px;
 color: black;
 }
    
+.hero-btn { 
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 12px 35px;
+    font-size: 16px;
+    background: transparent;
+    position: relative;
+  text-align: center;
+}
 
+.hero-btn:hover { 
+
+    border: 1px solid white;
+    background: #B2A490;
+    transition: 2s;
+}
 
  @media(max-width: 700px) {
     .text-box h1 
