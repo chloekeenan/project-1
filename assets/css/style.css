@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap') ;
+
 * {
     margin: 0;
     padding: 0;
@@ -102,7 +103,6 @@ h1, h2 {
 
 .text-box p {
 margin: 10px 0 50px;
-font-size: 20px;
 color: black;
 }
    
@@ -125,17 +125,14 @@ color: black;
     transition: 2s;
 }
 
- @media(max-width: 700px) {
-    .text-box h1 
-     font-size:20px;
-     
+@media (max-width: 700px) {
+}
 
- }
 
- footer. {
 
-    height: 200px;
- }
+
+
+
 
 .social-media { 
     text-align: center;
