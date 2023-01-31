@@ -27,7 +27,7 @@ h1, h2 {
     text-align: center;
     font-size: 300%;
     margin-left: 100px;
-    text-decoration: none;
+    text-decoration:none;
     color: black;
 }
 
@@ -129,7 +129,7 @@ div {
 .hero-btn:hover { 
 
     border: 1px solid black;
-    background: #B2A490;
+    background: #518C90;
     transition: 2s;
 }
 
