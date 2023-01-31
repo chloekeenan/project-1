@@ -81,16 +81,16 @@ h1, h2 {
     width:100%;
     color: #57929A;
     position: relative;
-    clear: both;
     text-align:center;
     height: 100vh;
+   
 }
 
 .center {
-    display: block;
+    display:inline;
     margin-left: auto;
     margin-right: auto;
-    width: 0%;
+    width: 100%;
   }
 
 .text-box h1 {
