@@ -86,6 +86,12 @@ h1, h2 {
    
 }
 
+.text-box img {
+ 
+        opacity: 0.5;
+ 
+}
+
 .center {
     display:inline;
     margin-left: auto;
