@@ -103,7 +103,22 @@ h1, h2 {
     line-height: 25px;
 }
 
+.hero-button {
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  border: 2px solid white;
+  padding: 13px 35px;
+  font-size: 15px;
+  background: transparent;
+  position: relative;
+  cursor: pointer;
 
+}
+
+#btn {
+  text-align: center;
+}
 
  footer. {
 
