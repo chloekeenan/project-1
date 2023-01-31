@@ -9,5 +9,5 @@ A website called The Beach Retreat aims to develop a 3-day retreat experience. U
  ![Responsive Mockup](assets/images/responsive.png)
 
   
-Features
+**##Features**
 
