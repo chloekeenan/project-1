@@ -23,15 +23,14 @@ h1, h2 {
     margin: auto;
 }
 
-#logo  { 
-    text-align: center;
-    font-size: 300%;
-    margin-left: 100px;
-    text-decoration:none;
-    color: black;
+#logo { 
+  font-size: 280%;
+  float: left;
+  
 }
 
-#logo a { text-decoration: none; border-bottom:1px solid black; }
+
+
 
 #menu { 
     font-size: 100%;
@@ -64,9 +63,12 @@ h1, h2 {
 }
 
 
-
-
-
+#main { 
+  height:600px;
+  width:100%;
+  background:url('../images/hero-img.jpeg') no-repeat center center;
+  opacity: 0.75;
+}
 
 
 
@@ -77,14 +79,7 @@ h1, h2 {
     overflow: hidden;
 }
 
-.text-box {
-    width:100%;
-    color: #57929A;
-    position: relative;
-    text-align:center;
-    height: 100vh;
-   
-}
+
 
 
 
@@ -95,48 +90,18 @@ h1, h2 {
     width: 100%;
   }
 
-.text-box h1 {
-    font-size: 60px;
-    top:50%;
-    left:50%;
-    transform: translate(-50%, -50%);
-    position: absolute;
 
-}
 
-.text-box img { 
-    opacity: 0.5;
-   text-shadow: #5E8485;
-
-}
- 
-div { 
-    display: block;
-}
    
-.hero-btn { 
-    display: inline-block;
-    text-decoration: none;
-    color: black;
-    border: 2px solid black;
-    padding: 12px 35px;
-    font-size: 16px;
-    background: transparent;
-    position: relative;
-  text-align: center;
+
+
+@media screen and (max-width: 700px) {
+    clear:left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
 }
-
-.hero-btn:hover { 
-
-    border: 1px solid black;
-    background: #518C90;
-    transition: 2s;
-}
-
-@media (max-width: 700px) {
-}
-
-
 
 
 
@@ -167,20 +132,9 @@ div {
     text-align: center;
 }
 
-#photos { 
-    clear: both;
-    line-height: 0;
-    column-count: 4;
-    column-gap: 0px;
-    width: 5%;
-    height: 10%;
-    object-fit: contain;
-}
 
-.container {
-    padding: 16px;
-  }
-  
+
+
 
   input[type=text], input[type=fname] {
     width: 100%;
