@@ -43,5 +43,11 @@ A website called The Beach Retreat aims to develop a 3-day retreat experience. U
 
 
 **Itinerary** 
+ - The user can view The Beach Retreat's itinerary and the schedule of events for the three days in the about section.
+
 
   ![Itinerary](assets/images/itin.html.png)
+
+ 
+  **Gallery** 
+  ![Gallery](assets/images/readme-gallery.png)
