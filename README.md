@@ -11,7 +11,7 @@ A website called The Beach Retreat aims to develop a 3-day retreat experience. U
   
 # Feautres
 
-**Navigation Bar** 
+# Navigation Bar
 
 - Including a fully responsive navigation bar on all three pages. A logo and links to the Home page, Gallery, and Sign Up page are included. It is the same on every page to make navigation simple for the user. 
 
@@ -22,7 +22,7 @@ A website called The Beach Retreat aims to develop a 3-day retreat experience. U
  ![Navigation Bar](assets/images/nav%20.png)
 
 
-**Landing Page**
+# Landing Page
 - To give the customer a sense of where the beach retreat is located, the landing page features a picture of the beach.
 
 - With a sizable, high-impact graphic, this part introduces the viewer to The Beach Retreat and draws in potential visitors.
@@ -33,7 +33,7 @@ A website called The Beach Retreat aims to develop a 3-day retreat experience. U
   ![Landing Page](assets/images/landing%202.png)
 
 
-**The Footer**
+# The Footer
 
 - Including a fully responsive footer navigation bar on all four pages. It contains links to Twitter, Facebook, and Instagram. It is the same on every page to make navigation simple for the user.
 
@@ -42,14 +42,14 @@ A website called The Beach Retreat aims to develop a 3-day retreat experience. U
   ![Footer](assets/images/footer.png)
 
 
-**Itinerary** 
+# Itinerary
  - The user can view The Beach Retreat's itinerary and the schedule of events for the three days in the about section.
 
 
   ![Itinerary](assets/images/itin.html.png)
 
  
-  **Gallery** 
+#   Gallery
   - The user will have access to supporting photographs in the gallery section so they can view idealized pictures of The Beach Retreat.
    I would like to post consumer testimonials after the retreat.
 
@@ -58,7 +58,7 @@ A website called The Beach Retreat aims to develop a 3-day retreat experience. U
   ![Gallery](assets/images/readme-gallery.png)
 
 
-**Sign Up Page**
+# Sign Up Page
 
  - The consumer can get in touch with the company through this page to express interest in The Beach Retreat.
 
@@ -69,14 +69,14 @@ A website called The Beach Retreat aims to develop a 3-day retreat experience. U
 
 
 
-**Current Features**
+# Current Features
  
  - An attractive responsive design that works with screens up to 320 pixels wide.
 Each external link has an appropriate aria label and opens in a new tab.
 Sign up with a link to the user's success page.
 
 
-**Future Features**
+# Future Features
 
 - A feature of a reservation option that lets you pick the room of your choice.
 
@@ -95,12 +95,12 @@ adding video footage of actual meditation practice.
 - Every link on the website has been checked to ensure that it operates as intended, opens in the proper tab, and, if it is an external link, opens in a new browser tab.
 
 
-**Validation Testing**
+# Validation Testing
 
 - HTML: When running through the official W3C validator, no issues were reported.
   ![html](assets/images/html.png) [W3 Validator]( https://validator.w3.org/nu/?doc=https%3A%2F%2Fchloekeenan.github.io%2Fproject-1%2F)
 
 
 - CSS: When running through the official W3C validator, no issues were reported.
-
+[W3 Validator](https://jigsaw.w3.org/css-validator/validator )
 
