@@ -102,7 +102,7 @@ adding video footage of actual meditation practice.
 
 
 - CSS: When running through the official W3C validator, no issues were reported.
-[W3 Validator](https://jigsaw.w3.org/css-validator/validator)
+ https://jigsaw.w3.org/css-validator/validator
 
 - Lighthouse: The results of testing the website using Lighthouse are listed below.
 
