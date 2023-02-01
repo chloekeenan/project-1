@@ -22,3 +22,7 @@ A website called The Beach Retreat aims to develop a 3-day retreat experience. U
  ![Navigation Bar](assets/images/nav%20.png)
 
 
+**Landing Page **
+
+ ![Landing Page](assets/images/landing%201.png)
+  ![Landing Page](assets/images/landing%202.png)
