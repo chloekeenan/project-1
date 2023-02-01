@@ -153,6 +153,8 @@ Although I wrote all of the content, I was inspired by past coastal meditation r
 
 - I used (https://www.w3schools.com/css/css3_object-fit.asp) for object fit. 
 
+- I would like to also credit the amazing tutors at The Code Institute for all of their help. 
+
 # Media
 
  - Fonts Used:   'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
