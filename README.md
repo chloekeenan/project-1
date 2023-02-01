@@ -98,7 +98,7 @@ adding video footage of actual meditation practice.
 **Validation Testing**
 
 - HTML: When running through the official W3C validator, no issues were reported.
-  ![html](assets/images/html.png) [W3 Validator]( https://validator.w3.org/nu/?doc=https%3A%2F%2Fchloekeenan.github.io%2Fproject-1%2F)\
+  ![html](assets/images/html.png) [W3 Validator]( https://validator.w3.org/nu/?doc=https%3A%2F%2Fchloekeenan.github.io%2Fproject-1%2F)
 
 
 - CSS: When running through the official W3C validator, no issues were reported.
