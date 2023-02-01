@@ -95,3 +95,12 @@ adding video footage of actual meditation practice.
 - Every link on the website has been checked to ensure that it operates as intended, opens in the proper tab, and, if it is an external link, opens in a new browser tab.
 
 
+**Validation Testing**
+
+- HTML: When running through the official W3C validator, no issues were reported.
+  ![html](assets/images/html.png) [W3 Validator]( https://validator.w3.org/nu/?doc=https%3A%2F%2Fchloekeenan.github.io%2Fproject-1%2F)\
+
+
+- CSS: When running through the official W3C validator, no issues were reported.
+
+
