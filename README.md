@@ -69,4 +69,11 @@ A website called The Beach Retreat aims to develop a 3-day retreat experience. U
 
 
 
+**Current Features**
+ 
+ - An attractive responsive design that works with screens up to 320 pixels wide.
+Each external link has an appropriate aria label and opens in a new tab.
+Sign up with a link to the user's success page.
+
+
 
