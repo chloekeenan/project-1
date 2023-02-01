@@ -134,3 +134,21 @@ Select "Save"
 - he live link should display beneath the heading "Github Pages" once the page has refreshed.
 
 You can view the link here: (https://chloekeenan.github.io/project-1/)
+
+# Credits 
+
+Although I wrote all of the content, I was inspired by past coastal meditation retreats. These are the websites that I visited for research: 
+
+- https://www.healthandfitnesstravel.com/caribbean/turks-caicos/como-parrot-cay/yoga-pilates/ 
+
+- https://www.healthandfitnesstravel.com/africa-indian-ocean/morocco/paradis-plage/yoga-holiday/ 
+
+- https://www.healthandfitnesstravel.com/yoga-holidays 
+
+- The footer's icons were from Font Awesome. (https://fontawesome.com/)
+
+- Using [amiresponsive] (https://ui.dev/amiresponsive), I produced responsive mockups. 
+
+- For colour codes I used (https://html-color-codes.info/colors-from-image/)
+
+- I used (https://www.w3schools.com/css/css3_object-fit.asp) for object fit. 
