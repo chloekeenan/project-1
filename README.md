@@ -76,4 +76,12 @@ Each external link has an appropriate aria label and opens in a new tab.
 Sign up with a link to the user's success page.
 
 
+**Future Features**
+
+- A feature of a reservation option that lets you pick the room of your choice.
+
+- Adding a map showing the retreat's location
+adding video footage of actual meditation practice.
+
+- I haven't made a 404 page because the site is only a four-page static static site; but, if the features grow and there may be dead links, I will develop a 404 page.
 
