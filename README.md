@@ -85,3 +85,13 @@ adding video footage of actual meditation practice.
 
 - I haven't made a 404 page because the site is only a four-page static static site; but, if the features grow and there may be dead links, I will develop a 404 page.
 
+
+# Testing 
+
+- Chrome Developer Tools to test the responsiveness of pages The site was tested on Safari, a desktop computer, an iPad, and an iphone 12.
+
+- No photos are pixelated or stretched on the website, which is responsive on all screen sizes. Nothing overlaps.
+
+- Every link on the website has been checked to ensure that it operates as intended, opens in the proper tab, and, if it is an external link, opens in a new browser tab.
+
+
