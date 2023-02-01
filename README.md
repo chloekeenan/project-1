@@ -152,3 +152,9 @@ Although I wrote all of the content, I was inspired by past coastal meditation r
 - For colour codes I used (https://html-color-codes.info/colors-from-image/)
 
 - I used (https://www.w3schools.com/css/css3_object-fit.asp) for object fit. 
+
+# Media
+
+ - Fonts Used:   'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+- All images were taken from Shutterstock (https://www.shutterstock.com/explore/eu-stock-assets?c3apidt=p11181026076&gclid=CjwKCAiAuOieBhAIEiwAgjCvciMvVWCZMgNwRD1Hv7LVfq048dF8gRljYglSlb0HZP9HCS5DE6DfXRoCDuQQAvD_BwE&gclsrc=aw.ds&kw=shutterstock)
