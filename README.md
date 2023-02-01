@@ -50,4 +50,12 @@ A website called The Beach Retreat aims to develop a 3-day retreat experience. U
 
  
   **Gallery** 
+  - The user will have access to supporting photographs in the gallery section so they can view idealized pictures of The Beach Retreat.
+   I would like to post consumer testimonials after the retreat.
+
+- The user can learn more about the three-day retreat and the services it offers by examining this section.
+
   ![Gallery](assets/images/readme-gallery.png)
+
+
+  
