@@ -58,4 +58,10 @@ A website called The Beach Retreat aims to develop a 3-day retreat experience. U
   ![Gallery](assets/images/readme-gallery.png)
 
 
-  
+**Sign Up Page**
+
+ - The consumer can get in touch with the company through this page to express interest in The Beach Retreat.
+
+ - After the sign up form has been completed and submitted, a straightforward success page thanking the user is linked to. Since this is still a project, no data is sent.
+
+  ![Sign Up](assets/images/readme-signup.png)
