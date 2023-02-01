@@ -22,7 +22,26 @@ A website called The Beach Retreat aims to develop a 3-day retreat experience. U
  ![Navigation Bar](assets/images/nav%20.png)
 
 
-**Landing Page **
+**Landing Page**
+- To give the customer a sense of where the beach retreat is located, the landing page features a picture of the beach.
+
+- With a sizable, high-impact graphic, this part introduces the viewer to The Beach Retreat and draws in potential visitors.
+
+- A call to action button to sign up and learn more about the retreat is also included on the landing page.
 
  ![Landing Page](assets/images/landing%201.png)
   ![Landing Page](assets/images/landing%202.png)
+
+
+**The Footer**
+
+- Including a fully responsive footer navigation bar on all four pages. It contains links to Twitter, Facebook, and Instagram. It is the same on every page to make navigation simple for the user.
+
+- The user benefits from the footer since it encourages them to stay engaged on social media..
+
+  ![Footer](assets/images/footer.png)
+
+
+**Itinerary** 
+
+  ![Itinerary](assets/images/itin.html.png)
