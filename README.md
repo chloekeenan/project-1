@@ -104,3 +104,33 @@ adding video footage of actual meditation practice.
 - CSS: When running through the official W3C validator, no issues were reported.
 [W3 Validator](https://jigsaw.w3.org/css-validator/validator )
 
+- Lighthouse: The results of testing the website using Lighthouse are listed below.
+
+**Home Page**
+
+  ![Home](assets/images/index.html.png)
+
+**Itinerary**
+   ![Itinerary](assets/images/itinerary.png)
+
+**Gallery**
+   ![Gallery](assets/images/gallery.png)
+
+  **Sign Up**
+   ![Sign Up](assets/images/sign-up.png)
+
+
+
+
+# Deployment 
+
+- Github Pages was used to deploy the website. The following are the deployment steps:
+- Find the Github repository "project-1" after signing in to Github.
+- Select "Settings" from the drop-down menu at the repository's top.
+- On the left-hand side navigation menu, select "Pages."
+- If it is not already selected, choose "Deploy from a branch" under "Source".
+- Choose "main" and "root" from the drop-down choices underneath "Branch."
+Select "Save"
+- he live link should display beneath the heading "Github Pages" once the page has refreshed.
+
+You can view the link here: (https://chloekeenan.github.io/project-1/)
