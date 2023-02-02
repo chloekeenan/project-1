@@ -153,6 +153,35 @@ You can view the link here: (https://chloekeenan.github.io/project-1/)
 
 - Make it simple for clients to contact the company.
 
+# Target Audience 
+**Key Demographics**
+
+- Age 18-29 
+
+- 80% Female 20% Male 
+
+**Key Psychographics**
+
+- Strongly values friendships and community.
+
+- Interested in meditation and self care. 
+
+- Enjoys travelling solo. 
+
+**Preferred Channels**
+
+- Follows users on Instagram promoting meditation and retreats. 
+
+**Preferred Content Type**
+  - Social Media Posts. ßs
+
+
+
+
+
+
+
+
 
 # Unfixed Bugs
 I would of liked to have the navigation bar horiznotal on a mobile device. 
