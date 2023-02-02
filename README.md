@@ -136,6 +136,25 @@ Select "Save"
 
 You can view the link here: (https://chloekeenan.github.io/project-1/)
 
+# User Goals 
+**As a user I want to:**
+
+- Gain more information about The Beach Retreat. 
+
+- Emsure the website is simple and intuitive to navigate the website.
+
+- Simply reach the navigation menu whenever you want to.
+
+# Business Owner Goals 
+
+- Provide concise information regarding The Beach Retreat.
+
+- Provide the customer enough information to make them want to find out more.
+
+- Make it simple for clients to contact the company.
+
+
+
 # Credits 
 
 Although I wrote all of the content, I was inspired by past coastal meditation retreats. These are the websites that I visited for research: 
