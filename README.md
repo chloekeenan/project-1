@@ -154,6 +154,10 @@ You can view the link here: (https://chloekeenan.github.io/project-1/)
 - Make it simple for clients to contact the company.
 
 
+# Unfixed Bugs
+I would of liked to have the navigation bar horiznotal on a mobile device. 
+I initially created the website for the desktop first, but after understanding more about responsive design, I realize that I should have started with the mobile version as it is simpler to manage.
+
 
 # Credits 
 
