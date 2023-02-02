@@ -101,10 +101,11 @@ adding video footage of actual meditation practice.
   ![html](assets/images/html.png) [W3 Validator]( https://validator.w3.org/nu/?doc=https%3A%2F%2Fchloekeenan.github.io%2Fproject-1%2F)
 
 
-- CSS: When running through the official W3C validator, no issues were reported. link: 
-https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fchloekeenan.github.io%2Fproject-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+- CSS: When running through the official W3C validator, no issues were reported. 
+  ![html](assets/images/css.png)  [W3 Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fchloekeenan.github.io%2Fproject-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-- Lighthouse: The results of testing the website using Lighthouse are listed below.
+
+- Lighthouse: The results of testing the website using Lighthouse are listed below:
 
 **Home Page**
 
